@@ -49,8 +49,8 @@ git push origin master
 ```
 
 ## Mockup ELDORA ScanQRCode
-|![intro](./src/assets/mockup/Loading-intro.png "Loading - Intro")
-|![Login](./src/assets/mockup/Login.png "Login")
-|![Patient](./src/assets/mockup/Patient.png "Patient")
-|![Residence card - L](./src/assets/mockup/Residence-card-L.png "Residence card - L")
-|
+![intro](./src/assets/mockup/Loading-intro.png "Loading - Intro")
+![Login](./src/assets/mockup/Login.png "Login")
+![Patient](./src/assets/mockup/Patient.png "Patient")
+![Residence card - L](./src/assets/mockup/Residence-card-L.png "Residence card - L")
+
