@@ -24,3 +24,21 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+### push an existing repository from the command line
+
+```bash
+git remote add origin https://github.com/happybirdw/devQRCode.git
+git push -u origin master
+```
+
+### clone an existing repository from the command line
+
+```bash
+git clone https://github.com/happybirdw/devQRCode.git
+```
+
+### new push modifications to an existing repository from the command line
+
+```bash
+git push origin master
+```
