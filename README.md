@@ -24,6 +24,11 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+### Here's the screenshot:
+
+![screenshot](./src/assets/imgs/devQRCode.png "Screenshot of devQRCode")
+
+
 ### push an existing repository from the command line
 
 ```bash
